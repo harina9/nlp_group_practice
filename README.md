@@ -1,4 +1,4 @@
-Group: Arina Petrova, Maria Savinkova, Olga Drabenia, Karina Valieva
+Group: Arina Petrova and Olga Drabenia
 
 **Plan to do a task**
 
